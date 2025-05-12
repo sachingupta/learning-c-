@@ -1,5 +1,6 @@
 #include "examples.h" // Include the header file
 #include "classExamples.h"
+#include "inheritanceExamples.h"
 
 int main() {
     //sumFun();
@@ -11,6 +12,7 @@ int main() {
     // pointerToFunctionExample();
     //dynamicMemoryAllocationExample();
     // DataStructureExample();
-    classExample();
+    // classExamples();
+    inherianceExamples();
     return 0;
 }
